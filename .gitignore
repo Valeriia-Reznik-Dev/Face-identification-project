@@ -48,3 +48,6 @@ Thumbs.db
 *.tmp
 *.log
 *.cache
+
+# Разрешаем выбранные изображения
+!dataset/test/images_selected/
