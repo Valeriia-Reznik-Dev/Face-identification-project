@@ -51,3 +51,6 @@ Thumbs.db
 
 # Разрешаем выбранные изображения
 !dataset/test/images_selected/
+
+# Разрешаем выбранные видео
+!dataset/test/videos_selected/
